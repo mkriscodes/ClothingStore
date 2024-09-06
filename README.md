@@ -1,3 +1,2 @@
 # ClothingStore
-Using object oriented principles, I created a clothing store. 
-I made separate files for the clothing items and included several choices for each item such as size and type. After finding the right item, it overrides the base member and base methods to display the cart and total. The shopper's items will be stored into the array and can be shown by choosing the display cart items option. Display cart total is also an option once shopping is complete.
+Using the Java programming language I created a clothing store using concepts such as polymorphism and inheritance to create base and derived classes. Polymorphism helped me with overriding base members and methods to provide different implementations for each clothing item. I then used instances of those objects to update the user’s options in my Main.cpp file to display their chosen items and total once they are done shopping.
